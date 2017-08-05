@@ -7,4 +7,4 @@ Handwritten notes wiping and installing linux from an old laptop
   * see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders).
   * navigate to different sections of the webpage by clicking buttons in the navigation.
 
-<!-- <a href="https://appijumbo.github.io/landingPage/"><img src="./extras/land.jpg" width="600"></a> -->
+<img src="./wipingInstallingLinux/Wiping_and_installing_notes_1.png " width="600">
