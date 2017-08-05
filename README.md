@@ -11,11 +11,12 @@ Handwritten notes wiping and installing linux from an old laptop
   * Cleaned machine and provided extra eternal storage
 
 
-  
+
 
   ### Initial thoughts on what tools to use to wipe the HD
 
   <img src="Wiping_and_installing_notes_1.png" width="400">
+
 
 
 
@@ -25,6 +26,9 @@ Handwritten notes wiping and installing linux from an old laptop
   <img src="Wiping_and_installing_notes_2.png" width="800">
 
 
+
+
+  <img src="pic1.jpg" width="800">
 
   ### Plan 2: DBAN didn't work a second approach required
   Used Gparted and a shred then dd to wipe
@@ -43,9 +47,28 @@ Handwritten notes wiping and installing linux from an old laptop
 
 
 
+
+  <img src="pic3.jpg" width="800">
+
+
+
+
+  <img src="pic4.jpg" width="800">
+
+
+
+
+
+  <img src="pic5.jpg" width="800">
+
   ### Installed correct firmware for BCM4311
 Switched to Linux Mint with ethernet cable (now functioning) and installed the BCM4311 drivers
   <img src="Wiping_and_installing_notes_5.png" width="800">
+
+
+
+
+  <img src="pic6.jpg" width="800">
 
   ### Installed software packages
   Added offical ppas for LibreOffice, themes etc. Also GIMP plugins , added Blender and other tools.
