@@ -1,4 +1,4 @@
-# Deleting data and old OS and then installing Linux
+## Deleting data and old OS and then installing Linux
 
 Handwritten notes wiping and installing linux from an old laptop
 
