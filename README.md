@@ -1,4 +1,4 @@
-## Deleting data and old OS and then installing Linux
+## Deleting data and old OS
 
 Handwritten notes wiping and installing linux from an old laptop
 
@@ -11,21 +11,15 @@ Handwritten notes wiping and installing linux from an old laptop
   * Cleaned machine and provided extra eternal storage
 
 
-
-
   ### Initial thoughts on what tools to use to wipe the HD
 
   <img src="Wiping_and_installing_notes_1.png" width="400">
-
-
 
 
   ### Plan 1: Use DBAN
   Important to get approach clear in mind before attempting erasing!
 
   <img src="Wiping_and_installing_notes_2.png" width="800">
-
-
 
 
   <img src="pic1.jpg" width="800">
@@ -36,8 +30,9 @@ Handwritten notes wiping and installing linux from an old laptop
   <img src="Wiping_and_installing_notes_3.png" width="800">
 
 
+## Installing Linux OS
 
-  ### Attempts to install Linux failed
+  ### Initial attempts to install Linux failed
   Discovered problems with both wi-Fi broadcom chipset and direct Eathernet
   This took several hours to figure out what was going on
   Puppy Linux became invaluable as a diagnostic tool in assuring me that Wi-Fi chipset did work, using Puppy Linux Frisbee.
@@ -46,20 +41,14 @@ Handwritten notes wiping and installing linux from an old laptop
   <img src="Wiping_and_installing_notes_4.png" width="800">
 
 
-
-
   <img src="pic3.jpg" width="800">
-
-
 
 
   <img src="pic4.jpg" width="800">
 
 
-
-
-
   <img src="pic5.jpg" width="800">
+
 
   ### Installed correct firmware for BCM4311
 Switched to Linux Mint with ethernet cable (now functioning) and installed the BCM4311 drivers
