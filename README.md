@@ -1,4 +1,4 @@
-# Three stages
+### Key stages
 
   * Delete data and old OS
   * Install Linux OS
